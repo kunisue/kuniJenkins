@@ -38,6 +38,6 @@
 
         <property name="basedir" value="${basedir}"/>
     -->
-
+	<module name="FileLength"/>
 
 </module>
