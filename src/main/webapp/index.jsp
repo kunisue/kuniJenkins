@@ -8,8 +8,8 @@
 </head>
 <body>
 <form method="get" action="/index">
-<h1>Hello, world！</h1>
-<input type="button" value="next" onClick="">
+	<h1>Hello, world！</h1>
+	<input type="button" value="next" onClick="">
 </form>
 </body>
 </html>

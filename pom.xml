@@ -29,7 +29,7 @@
       <plugin>
 	    <groupId>org.apache.maven.plugins</groupId>
 	    <artifactId>maven-checkstyle-plugin</artifactId>
-	    <version>2.15</version>
+	    <version>3.47</version>
 	    <executions>
 	        <execution>
 	            <phase>test</phase>
@@ -45,7 +45,17 @@
 	        <failsOnError>true</failsOnError>
 	        <linkXRef>false</linkXRef>
 	    </configuration>
-	</plugin>
+	  </plugin>
     </plugins>
   </build>
+  
+  <reporting>
+      <plugins>
+          <plugin>
+              <groupId>org.apache.maven.plugins</groupId>
+              <artifactId>maven-checkstyle-plugin</artifactId>
+              <version>3.47</version>
+          </plugin>
+      </plugins>
+  </reporting>
 </project>
