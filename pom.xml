@@ -34,7 +34,7 @@
 	        <execution>
 	            <phase>test</phase>
 	            <goals>
-	                <goal>package</goal>
+	                <goal>check</goal>
 	            </goals>
 	        </execution>
 	    </executions>
