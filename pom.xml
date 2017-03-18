@@ -12,11 +12,6 @@
 	    <artifactId>javax.servlet-api</artifactId>
 	    <version>3.0.1</version>
     </dependency>
-    <dependency>
-    	<groupId>servletapi</groupId>
-    	<artifactId>servletapi</artifactId>
-    	<version>1</version>
-	</dependency>
   </dependencies>
   
   <properties>
