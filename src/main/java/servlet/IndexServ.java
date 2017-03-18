@@ -14,7 +14,15 @@ public class IndexServ extends HttpServlet {
 
 	private static final long serialversionUID = -1L;
 
-	public void doGet(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
+
+	/**
+	 * doget
+	 * @param req req
+	 * @param res res
+	 * @throws ServletException ServletException
+	 * @throws IOException IOException
+	 */
+	public void doget(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
 
 		System.out.println(KuniUtils.getMsg("abc"));
 
