@@ -13,9 +13,9 @@
 	    <version>3.0.1</version>
     </dependency>
     <dependency>
-    	<groupId>servlet-api</groupId>
-    	<artifactId>servlet-api</artifactId>
-    	<version>servlet-api</version>
+    	<groupId>servletapi</groupId>
+    	<artifactId>servletapi</artifactId>
+    	<version>1</version>
 	</dependency>
   </dependencies>
   
