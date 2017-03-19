@@ -2,6 +2,7 @@ package util;
 
 import static org.junit.Assert.*;
 import static org.hamcrest.core.Is.is;
+import util.KuniUtils;
 
 import org.junit.Test;
 
