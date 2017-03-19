@@ -18,7 +18,7 @@
       <repository>
           <id>artifactory.outerJar</id>
           <name>artifactory outerJar</name>
-          <url>http://localhost:8080/artifactory/outerJar</url>
+          <url>http://localhost:8080/artifactory/outerJar/</url>
       </repository>
   </repositories>
   
